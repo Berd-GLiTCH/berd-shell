@@ -27,3 +27,5 @@ You don't have to but I'd think it would be easier for someone instead of faffin
 - **Visual Studio Code** https://code.visualstudio.com/download (Recommended)
 - **Visual Studio** https://visualstudio.microsoft.com/downloads (Not recommended, unless you want to get into coding further. Very heavy)
 - **Atom** https://atom.io (Recommended, very lightweight)    
+
+Enjoy!
