@@ -9,13 +9,7 @@ I created this bot because I believe moderation should be extremely easy to acce
 - Python (latest)
 - A can do attitude
 
-### Quick Overview on how to add these, just in case:
-**WINDOWS**
-1. Open Command Prompt
-2. Issue this command:
- ``python3 install pip``
- Allocate some time for this to download
-3. When complete 
+### Reminder, if you at any point don't know how to do something there's no harm in searching it up on YouTube or asking someone on the internet, There's always someone willing to help you!
 
 ## **Comprehensive guide to doing this ;)**
 1. Go to https://discord.com/developers/applications
