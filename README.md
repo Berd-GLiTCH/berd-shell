@@ -21,8 +21,9 @@ I created this bot because I believe moderation should be extremely easy to acce
     - On scopes select: bot, applications.commands
     - on bot permissions select: Administrator (If you trust the code here enough) **OR** Send Messages, Read Messages/View Channels (This is bare essential but the bot       can't do very much, just use your common sense on what the permissions do)
     
-## **PLEASE DOWNLOAD AN IDE**
+## **PLEASE DOWNLOAD AN IDE OR ANYTHING THAT EDITS CODE**
 You don't have to but I'd think it would be easier for someone instead of faffing around with Command Prompt or Terminal, plus on the bright side you can add stuff and remove stuff easily with an IDE 
 
-- Visua
-    
+- **Visual Studio Code** https://code.visualstudio.com/download (Recommended)
+- **Visual Studio** https://visualstudio.microsoft.com/downloads (Not recommended, unless you want to get into coding further. Very heavy)
+- **Atom** https://atom.io (Recommended, very lightweight)    
