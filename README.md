@@ -9,6 +9,14 @@ I created this bot because I believe moderation should be extremely easy to acce
 - Python (latest)
 - A can do attitude
 
+### Quick Overview on how to add these, just in case:
+**WINDOWS**
+1. Open Command Prompt
+2. Issue this command:
+ ``python3 install pip``
+ Allocate some time for this to download
+3. When complete 
+
 ## **Comprehensive guide to doing this ;)**
 1. Go to https://discord.com/developers/applications
 2. Create an application and name it whatever!
